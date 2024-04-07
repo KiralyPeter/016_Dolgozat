@@ -1,3 +1,7 @@
+// Király Péter
+// SZOFT-II/1/E
+// 2024-04-07
+
 import { StatusBar } from 'expo-status-bar';
 import { useEffect, useState } from 'react';
 import { FlatList, View } from 'react-native';
